@@ -8,7 +8,7 @@
 **This is a Work In Progress** package.
 
 This is going to be a way to easily add organisations management with user roles and invitations for your Masonite projects.
-It might be inspired from `django-organisations`.
+It might be inspired from `django-organisations`: [https://github.com/bennylope/django-organizations/](https://github.com/bennylope/django-organizations/).
 
 ## Setting up
 
